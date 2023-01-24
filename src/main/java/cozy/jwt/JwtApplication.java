@@ -1,4 +1,4 @@
-package cozy.jwt.jwt;
+package cozy.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package cozy.jwt.jwt.entity;
+package cozy.jwt.entity;
 
 import lombok.*;
 
